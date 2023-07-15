@@ -1,6 +1,6 @@
 export const Nav = () => {
     return <div className="text-xl font-bold py-5 px-52 flex w-full  flex-row justify-between items-center  ">
-        <h3 className=" text-2xl">What Feel !!</h3>
+        <h3 className=" text-2xl  ">What Feel !</h3>
 
         <button className="flex  gap-x-2 items-center">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"

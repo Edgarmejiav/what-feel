@@ -20,7 +20,7 @@ export default function RootLayout({
 
         <body
         style={{  }}
-            className=" bg-gradient-to-br from-gray-700 via-gray-900 to-black">
+            className=" bg-gradient-to-b from-gray-700 via-gray-900 to-black">
         <Nav/>
         {
             children}
